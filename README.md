@@ -1,4 +1,6 @@
-#this is yet another branch for testing branches and commits in GitHub and the terminal#
+
+#this is a fix to the merge conflict
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
